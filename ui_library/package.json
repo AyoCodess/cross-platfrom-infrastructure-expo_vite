@@ -1,0 +1,18 @@
+{
+  "name": "ui_library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-plugin-react-native-web": "^0.18.12"
+  },
+  "dependencies": {
+    "react-dom": "^18.2.0",
+    "react-native-web": "^0.18.12"
+  }
+}
