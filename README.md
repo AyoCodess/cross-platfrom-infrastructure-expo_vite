@@ -6,7 +6,7 @@ If we install this package into any expo app and it will work as expected automa
 
 If we install this package into react based web apps i.e vite, next.js etc... They will need to be configured to use react-native-dom instead of react-dom. We have a working example with vite in this repo.
 
-1. test_ui_library is a vite web app for testing ui components and if the package works as expected. via ``npm link''
+1. test_ui_library is a vite web app for testing ui components and if the package works as expected. via ``npm link``
 
 2. a basic expo app
 
