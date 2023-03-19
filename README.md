@@ -15,4 +15,4 @@ If we install this package into react based web apps i.e vite, next.js etc... Th
 
 4. ui library, which would exist along with the test ui library project in a different repo going forward.
 
-Note: the package is currently public so anyone can techncally use it, however there are options to create private packages. 
+Note: the package is currently public so anyone can techncally use it, however there are options to create private packages like ``github packages`` 
