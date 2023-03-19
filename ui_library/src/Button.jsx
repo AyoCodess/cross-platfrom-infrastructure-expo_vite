@@ -1,5 +1,5 @@
 import React from "react";
-import { View, Text } from "react-native-dom";
+import { View, Text } from "react-native";
 
 const Button = () => (
   <View style={{ backgroundColor: "blue", padding: 10 }}>
