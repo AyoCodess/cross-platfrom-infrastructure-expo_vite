@@ -1,6 +1,6 @@
 # Unified codbase for all web and mobile apps
 
-UI library: https://www.npmjs.com/package/ayocodes_ui_library
+Test UI library: https://www.npmjs.com/package/ayocodes_ui_library
 
 If we install this package into any expo app and it will work as expected automatically.
 
