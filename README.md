@@ -1,4 +1,4 @@
-# cross platform
+# Unified codbase for all web and mobile apps
 
 UI library: https://www.npmjs.com/package/ayocodes_ui_library
 
