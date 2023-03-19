@@ -12,4 +12,4 @@ If we install this package into react based web apps i.e vite, next.js etc... Th
 
 3. a vite app configured to use react-native-dom instead of react dom
 
-4. ui library, which would exist along with the test ui library project in a different repo.
+4. ui library, which would exist along with the test ui library project in a different repo going forward.
